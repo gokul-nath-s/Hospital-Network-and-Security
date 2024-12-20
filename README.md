@@ -1,7 +1,6 @@
-# Hospital-Network-and-Security
-# 🚀 Advanced Network Infrastructure Design for Melbourne Health Services 🌐
+#🚀 Advanced Network Infrastructure Design for Melbourne Health Services 🌐 
 
-![Project Banner](path/to/your/image.jpg)  
+![Project Banner]()  
 *A secure and scalable network design for a leading healthcare provider in Australia.*
 
 This repository showcases a comprehensive network infrastructure design for **Melbourne Health Services**, a leading healthcare provider in Australia. The project aimed to design and implement a **secure, scalable, and cost-effective network** across two locations: the main headquarters and a branch hospital.
